@@ -1,5 +1,7 @@
 # Cross-Platform Tracking Template Guide
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 ## Table of Contents
 1. Google Ads
 2. Microsoft Ads (Bing)
